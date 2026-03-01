@@ -4,6 +4,8 @@
 
 Example CRUD Application
 
+Test Push to Openshift
+
 ### Getting Started
 
 #### Running Locally
